@@ -2,43 +2,43 @@
 
 # 🌟 **Welcome to My Developer Portfolio** 👨‍💻  
 
-Hi, I'm **Umer Qureshi** 👋, a highly motivated **Computer System Engineering Undergraduate** and a passionate **developer**. I specialize in building innovative solutions, creating efficient systems, and contributing to impactful projects. 🚀  
+Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering Undergraduate** and a passionate **developer**. I specialize in building innovative solutions, creating efficient systems, and contributing to impactful projects. 🚀  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umerqureshi409&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/umerqureshi409?tab=followers">
-    <img src="https://img.shields.io/github/followers/umerqureshi409?style=flat-square&color=green" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Oun-Muhammad&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/Oun-Muhammad?tab=followers">
+    <img src="https://img.shields.io/github/followers/Oun-Muhammad?style=flat-square&color=green" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/umerqureshi409">
-    <img src="https://img.shields.io/github/stars/umerqureshi409?style=flat-square&color=yellow" alt="GitHub Stars" />
+  <a href="https://github.com/Oun-Muhammad">
+    <img src="https://img.shields.io/github/stars/Oun-Muhammad?style=flat-square&color=yellow" alt="GitHub Stars" />
   </a>
 </p>
 <div align="center">
 
-<a href="https://github.com/umerqureshi409/Portfolio/stargazers">
-    <img src="https://img.shields.io/github/stars/umerqureshi409/Portfolio" alt="Stars Badge"/>
+<a href="https://github.com/Oun-Muhammad/Portfolio/stargazers">
+    <img src="https://img.shields.io/github/stars/Oun-Muhammad/Portfolio" alt="Stars Badge"/>
 </a>
-<a href="https://github.com/umerqureshi409/Portfolio/network/members">
-    <img src="https://img.shields.io/github/forks/umerqureshi409/Portfolio" alt="Forks Badge"/>
+<a href="https://github.com/Oun-Muhammad/Portfolio/network/members">
+    <img src="https://img.shields.io/github/forks/Oun-Muhammad/Portfolio" alt="Forks Badge"/>
 </a>
-<a href="https://github.com/umerqureshi409/Portfolio/pulls">
-    <img src="https://img.shields.io/github/issues-pr/umerqureshi409/Portfolio" alt="Pull Requests Badge"/>
+<a href="https://github.com/Oun-Muhammad/Portfolio/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Oun-Muhammad/Portfolio" alt="Pull Requests Badge"/>
 </a>
-<a href="https://github.com/umerqureshi409/Portfolio/issues">
-    <img src="https://img.shields.io/github/issues/umerqureshi409/Portfolio" alt="Issues Badge"/>
+<a href="https://github.com/Oun-Muhammad/Portfolio/issues">
+    <img src="https://img.shields.io/github/issues/Oun-Muhammad/Portfolio" alt="Issues Badge"/>
 </a>
-<a href="https://github.com/umerqureshi409/Portfolio/graphs/contributors">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/umerqureshi409/Portfolio?color=2b9348">
+<a href="https://github.com/Oun-Muhammad/Portfolio/graphs/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Oun-Muhammad/Portfolio?color=2b9348">
 </a>
-<a href="https://github.com/umerqureshi409/Portfolio/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/umerqureshi409/Portfolio?color=2b9348" alt="License Badge"/>
+<a href="https://github.com/Oun-Muhammad/Portfolio/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Oun-Muhammad/Portfolio?color=2b9348" alt="License Badge"/>
 </a>
 
 </div>
 
 <div align="justify">
 
-<a href="https://www.instagram.com/umerqureshi409/">
+<a href="https://www.instagram.com/oun._.muhammad/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
