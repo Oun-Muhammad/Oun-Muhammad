@@ -190,13 +190,13 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
  </tr>
 </table>
 
-<details>
+<!-- <details>
   <summary>Activity Graph 📈</summary>
   <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umerqureshi409&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</details>
+</details> -->
 
 
 
@@ -208,11 +208,11 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
 
 ## 🌐 **Online Presence**  
 
-- 🌍 [**Personal Portfolio**](https://umerqureshi409.github.io/Portfolio) (Coming Soon)  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/umer-qureshi-526118259)  
-- 📧 [**Email Me**](mailto:aa1660025@gmail.com)  
-- 📷 [**Instagram**](https://www.instagram.com/umerqureshi409) 
-- 🎥 [**YouTube Channel**](https://www.youtube.com/@code-withumer)  
+- 🌍 [**Personal Portfolio**](https://) (Coming Soon)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/)  
+- 📧 [**Email Me**](mailto:)  
+- 📷 [**Instagram**](https://www.instagram.com/) 
+- 🎥 [**YouTube Channel**](https://www.youtube.com/@)  
 
 ---
 
@@ -295,7 +295,7 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
 
 ## 📈 **GitHub Stats**  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=umerqureshi409&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=umerqureshi409&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerqureshi409&layout=compact&theme=radical" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Oun-Muhammad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Oun-Muhammad&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oun-Muhammad&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 ---
 
@@ -303,22 +303,11 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
 
 ### **Highlighted Projects**  
 
-- **[Face Recognition Attendance System](https://github.com/umerqureshi409/CPP-Face-Detection-Attendance-System)**  
-  - A **C++-based face recognition system** with a **web-accessible interface**.  
-
-- **[Portfolio Website](https://umerqureshi409.github.io/Portfolio)**  
-  - A personal portfolio showcasing **skills**, **projects**, and **blogs**.
-
-- **[Chrome Redesigned](https://umerqureshi409.github.io/chrome-redesigned)**
-  - Enhanced Chrome browser interface for aesthetics and functionality, improving the user experience.
-
-- **[Interactive CV](https://umerqureshi409.github.io/cv)**
-  - Built an interactive CV with downloadable functionality using jsPDF and html2canvas.  
 
 ---
 
 ## 🌐 **Connect With Me**
-<p align="center"> <a href="https://www.linkedin.com/in/umer-qureshi-526118259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a> <a href="https://github.com/umerqureshi409" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a> <a href="mailto:aa1660025@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a> <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a> <a href="mailto:" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a> </p>
 
 ## 💡 **Fun Fact**
 I believe in "Code, Debug, Innovate, Repeat!" 💻 and I'm always up for a coding challenge!
