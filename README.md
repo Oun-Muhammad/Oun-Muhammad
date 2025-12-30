@@ -1,9 +1,10 @@
-
-
-# **📂 Oun Muhammad | Developer Portfolio** 
+## **📂 Oun Muhammad | Developer Portfolio**
 
 Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate and a builder at heart. I enjoy crafting efficient systems, exploring low-level and modern technologies, and turning ideas into clean, working solutions. Always learning, always building. 🚀
 
+---
+
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oun-Muhammad&color=blueviolet&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/Oun-Muhammad?tab=followers">
@@ -14,6 +15,10 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
   </a>
 </p>
 <div align="center">
+
+<br>
+
+--- 
 
 <!-- <a href="https://github.com/Oun-Muhammad/Portfolio/stargazers">
     <img src="https://img.shields.io/github/stars/Oun-Muhammad/Portfolio" alt="Stars Badge"/>
@@ -35,24 +40,22 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 </a>
 
 </div> -->
-
 <div align="center">
+<a href="https://linkedin.com/in/oun-muhammad-9bb717340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oun-muhammad-9bb717340" height="30" width="40" /></a>
+<a href="https://kaggle.com/ounjafri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ounjafri" height="30" width="40" /></a>
+<a href="https://instagram.com/oun._.muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oun._.muhammad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ounium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ounium" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/oun._.muhammad/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@Ounium">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
+---
+
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""> -->
 <!-- <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a> --> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/oun-muhammad-9bb717340/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
+</a> -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
@@ -64,6 +67,8 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 
 </div>
 <p></p>
+
+<br>
 
 ## My Toolbox Stack🧰
 
@@ -208,8 +213,47 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
       <br>AWS
     </td>
  </tr>
+ <tr>
+   <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="48" height="48" />
+      <br>Arduino
+    </td>
+   <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="48" height="48" />
+      <br>Flutter
+    </td>
+   <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48" height="48" />
+      <br>OpenCV
+    </td>
+   <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
+      <br>Pandas
+    </td>
+   <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48" />
+      <br>PyTorch
+    </td>
+   <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48" height="48" />
+      <br>Scikit-Learn
+    </td>
+   <td align="center" width="96">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48" />
+      <br>Seaborn
+    </td>
+   <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48" />
+      <br>TensorFlow
+    </td>
+ </tr>
 </table>
 
+<br>
+
+---
+
+# **Timeline**
 <details>
   <summary>Activity Timeline 📈</summary>
   <br/>
@@ -220,9 +264,9 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 
 
 
-## GitHub Profile Trophy 🏆
+<!-- ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Oun-Muhammad&theme=onedark&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Oun-Muhammad&theme=onedark&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ---
 
@@ -247,6 +291,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 ## 🚀 **Tech Stack**  
 
 ### **Programming Languages**  
+
 <p align="center">  
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -263,6 +308,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 ---
 
 ### **Frameworks & Libraries**  
+
 <p align="center">  
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -277,6 +323,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 ---
 
 ### **Databases**  
+
 <p align="center">  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -288,6 +335,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 ---
 
 ### **Cloud Platforms & DevOps**  
+
 <p align="center">  
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -299,6 +347,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 ---
 
 ### **Tools**  
+
 <p align="center">  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -311,19 +360,46 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 
 ## 📈 **GitHub Stats**  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Oun-Muhammad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Oun-Muhammad&theme=radical" alt="GitHub Streak" /> </p> 
+<p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=Oun-Muhammad&theme=dark&hide_border=false" alt="GitHub Streak" /> </p> 
+
 ---
 
 ## 💡 **Projects**  
 
 ### **Highlighted Projects**  
 
+<div><a href="https://www.linkedin.com/posts/oun-muhammad-9bb717340_signlanguage-opencv-cplusplus-activity-7350226982493696000-bkgl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWJGd8BKtYnHd_J2EvPOeiP69iZgq2Hv70" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+       width="20" style="vertical-align:middle;">
+  <span style="margin-left:6px;">SignOut – A Real-Time American Sign Language Letter Translator</span>
+</a></div>
+
+<br>
+
+<div><a href="https://www.linkedin.com/posts/oun-muhammad-9bb717340_computergraphics-technicalinnovation-graphicsprogramming-activity-7280240719649214464-a2CM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWJGd8BKtYnHd_J2EvPOeiP69iZgq2Hv70" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+       width="20" style="vertical-align:middle;">
+  <span style="margin-left:6px;">Venom - A Real-time Symbiote Simulation</span>
+</a></div>
+
+<br>
+
+<div><a href="https://www.linkedin.com/posts/oun-muhammad-9bb717340_prostheticinnovation-arduinoprojects-accessibletechnology-activity-7350954801448312832-yjPB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWJGd8BKtYnHd_J2EvPOeiP69iZgq2Hv70" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+       width="20" style="vertical-align:middle;">
+  <span style="margin-left:6px;">VOPA MK I (Voice Operated Prosthetic Arm Mark I)</span>
+</a></div>
+
+
+
 ---
 
 ## 🌐 **Connect With Me**
 <p align="center"> <a href="https://www.linkedin.com/in/oun-muhammad-9bb717340" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a> <a href="https://github.com/Oun-Muhammad" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a> <a href="mailto:oun.muhammad2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a> </p>
 
+---
+
 ## 💡 **Fun Fact**
 <p align="center">
-<div>Per aspera ad astra 🌟</div>  
+<div>VENI VIDI VICI</div>  
 </p>
