@@ -1,8 +1,8 @@
 
 
-# 🌟 **Welcome to My Developer Portfolio** 👨‍💻  
+# **📂 Oun Muhammad | Developer Portfolio** 
 
-Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering Undergraduate** and a passionate **developer**. I specialize in building innovative solutions, creating efficient systems, and contributing to impactful projects. 🚀  
+Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate and a builder at heart. I enjoy crafting efficient systems, exploring low-level and modern technologies, and turning ideas into clean, working solutions. Always learning, always building. 🚀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oun-Muhammad&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -13,7 +13,7 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
     <img src="https://img.shields.io/github/stars/Oun-Muhammad?style=flat-square&color=yellow" alt="GitHub Stars" />
   </a>
 </p>
-<!-- <div align="center"> -->
+<div align="center">
 
 <!-- <a href="https://github.com/Oun-Muhammad/Portfolio/stargazers">
     <img src="https://img.shields.io/github/stars/Oun-Muhammad/Portfolio" alt="Stars Badge"/>
@@ -32,9 +32,9 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
 </a>
 <a href="https://github.com/Oun-Muhammad/Portfolio/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Oun-Muhammad/Portfolio?color=2b9348" alt="License Badge"/>
-</a> -->
+</a>
 
-<!-- </div> -->
+</div> -->
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@">
+<a href="https://www.youtube.com/@Ounium">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,7 +50,7 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
 <!-- <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a> --> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/oun-muhammad-9bb717340/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -65,32 +65,36 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
 </div>
 <p></p>
 
-## My favorite tools and technologies ⚙️
+## My Toolbox Stack🧰
 
-> Tools and technologies that I have worked with and am interested in
+> Technologies I’ve Worked With and Continue to Explore
 
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="Javascript"/>
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
       <br>C++
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+      <br>Java
+    </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django"/>
       <br>Django
     </td>
        <td align="center" width="96">
@@ -100,17 +104,17 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
+    </td>        
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>  
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="Nginx" />
+      <br>Nginx
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -124,31 +128,35 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
     </td>
   </tr>
    <tr>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="JQuery" />
+      <br>JQuery
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
@@ -162,69 +170,77 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
       <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
     </td>
   </tr>
  <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" />
+      <br>Sentry
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="Celery" />
+      <br>Celery
+    </td>
+    <td align="center" width="96">
+        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="Docusaurus" />
+      <br>Docusaurus
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="Pytest" />
+      <br>Pytest
+    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="40" height="40" alt="Raspberry Pi" />
+      <br>Raspberry Pi
+    </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="40" height="40" alt="Prettier" />
+      <br>Prettier
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" alt="AWS" />
+      <br>AWS
+    </td>
  </tr>
 </table>
 
-<!-- <details>
-  <summary>Activity Graph 📈</summary>
+<details>
+  <summary>Activity Timeline 📈</summary>
   <br/>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oun-Muhammad&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=umerqureshi409&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details> -->
+</details>
 
 
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=umerqureshi409&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Oun-Muhammad&theme=onedark&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🌐 **Online Presence**  
 
 - 🌍 [**Personal Portfolio**](https://) (Coming Soon)  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/)  
-- 📧 [**Email Me**](mailto:)  
-- 📷 [**Instagram**](https://www.instagram.com/) 
-- 🎥 [**YouTube Channel**](https://www.youtube.com/@)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/oun-muhammad-9bb717340)  
+- 📧 [**Email Me**](mailto:oun.muhammad2005@gmail.com)  
+- 📷 [**Instagram**](https://www.instagram.com/oun._.muhammad/) 
+- 🎥 [**YouTube Channel**](https://www.youtube.com/@Ounium)  
 
 ---
 
 ## 🖥️ **About Me**  
 
-- 🎓 **Degree**: Bachelor in Computer System Engineering  
+- 🎓 **Degree**: Bachelor's in Computer Systems Engineering  
 - 📍 **Location**: Pakistan  
-- 🌱 **Currently Learning**: Advanced AI models, DevOps, and Cloud Computing  
-- 🏆 **Goals for 2024**:  
-  - Contribute to **open-source** projects  
-  - Build a full-stack **AI-powered SaaS product**  
-  - Expand expertise in **cloud platforms** like AWS, Azure, and GCP  
+- 🌱 **Currently Learning**: Advanced AI models, DevOps, and Cloud Computing   
 
 ---
 
@@ -295,19 +311,19 @@ Hi, I'm **Oun Muhammad** 👋, a highly motivated **Computer System Engineering 
 
 ## 📈 **GitHub Stats**  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Oun-Muhammad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Oun-Muhammad&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oun-Muhammad&layout=compact&theme=radical" alt="Top Languages" /> </p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Oun-Muhammad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Oun-Muhammad&theme=radical" alt="GitHub Streak" /> </p> 
 ---
 
 ## 💡 **Projects**  
 
 ### **Highlighted Projects**  
 
-
 ---
 
 ## 🌐 **Connect With Me**
-<p align="center"> <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a> <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a> <a href="mailto:" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/oun-muhammad-9bb717340" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a> <a href="https://github.com/Oun-Muhammad" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a> <a href="mailto:oun.muhammad2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a> </p>
 
 ## 💡 **Fun Fact**
-I believe in "Code, Debug, Innovate, Repeat!" 💻 and I'm always up for a coding challenge!
+<p align="center">
+<div>Per aspera ad astra 🌟</div>  
+</p>
