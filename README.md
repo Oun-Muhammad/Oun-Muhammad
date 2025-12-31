@@ -368,7 +368,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 
 ### **Highlighted Projects**  
 
-<div><a href="https://www.linkedin.com/posts/oun-muhammad-9bb717340_signlanguage-opencv-cplusplus-activity-7350226982493696000-bkgl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWJGd8BKtYnHd_J2EvPOeiP69iZgq2Hv70" target="_blank" style="text-decoration:none;">
+<div><a href="https://www.linkedin.com/posts/oun-muhammad-jafri-9bb717340_signlanguage-opencv-cplusplus-activity-7350226982493696000-khWD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWJGd8BKtYnHd_J2EvPOeiP69iZgq2Hv70" target="_blank" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
        width="20" style="vertical-align:middle;">
   <span style="margin-left:6px;">SignOut – A Real-Time American Sign Language Letter Translator</span>
@@ -376,7 +376,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 
 <br>
 
-<div><a href="https://www.linkedin.com/posts/oun-muhammad-9bb717340_computergraphics-technicalinnovation-graphicsprogramming-activity-7280240719649214464-a2CM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWJGd8BKtYnHd_J2EvPOeiP69iZgq2Hv70" target="_blank" style="text-decoration:none;">
+<div><a href="https://www.linkedin.com/posts/oun-muhammad-jafri-9bb717340_computergraphics-technicalinnovation-graphicsprogramming-activity-7280240719649214464-EHo2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWJGd8BKtYnHd_J2EvPOeiP69iZgq2Hv70" target="_blank" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
        width="20" style="vertical-align:middle;">
   <span style="margin-left:6px;">Venom - A Real-time Symbiote Simulation</span>
@@ -384,7 +384,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 
 <br>
 
-<div><a href="https://www.linkedin.com/posts/oun-muhammad-9bb717340_prostheticinnovation-arduinoprojects-accessibletechnology-activity-7350954801448312832-yjPB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWJGd8BKtYnHd_J2EvPOeiP69iZgq2Hv70" target="_blank" style="text-decoration:none;">
+<div><a href="https://www.linkedin.com/posts/oun-muhammad-jafri-9bb717340_prostheticinnovation-arduinoprojects-accessibletechnology-activity-7350954801448312832-HOg1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWJGd8BKtYnHd_J2EvPOeiP69iZgq2Hv70" target="_blank" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
        width="20" style="vertical-align:middle;">
   <span style="margin-left:6px;">VOPA MK I (Voice Operated Prosthetic Arm Mark I)</span>
