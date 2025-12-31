@@ -41,7 +41,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 
 </div> -->
 <div align="center">
-<a href="https://linkedin.com/in/oun-muhammad-9bb717340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oun-muhammad-9bb717340" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oun-muhammad-jafri-9bb717340/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oun-muhammad-9bb717340" height="30" width="40" /></a>
 <a href="https://kaggle.com/ounjafri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ounjafri" height="30" width="40" /></a>
 <a href="https://instagram.com/oun._.muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oun._.muhammad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Ounium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ounium" height="30" width="40" /></a>
@@ -273,7 +273,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 ## 🌐 **Online Presence**  
 
 - 🌍 [**Personal Portfolio**](https://) (Coming Soon)  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/oun-muhammad-9bb717340)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/oun-muhammad-jafri-9bb717340/)  
 - 📧 [**Email Me**](mailto:oun.muhammad2005@gmail.com)  
 - 📷 [**Instagram**](https://www.instagram.com/oun._.muhammad/) 
 - 🎥 [**YouTube Channel**](https://www.youtube.com/@Ounium)  
@@ -395,7 +395,7 @@ Hey, I’m **Oun Muhammad** — a **Computer Systems Engineering** undergraduate
 ---
 
 ## 🌐 **Connect With Me**
-<p align="center"> <a href="https://www.linkedin.com/in/oun-muhammad-9bb717340" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a> <a href="https://github.com/Oun-Muhammad" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a> <a href="mailto:oun.muhammad2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/oun-muhammad-jafri-9bb717340/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a> <a href="https://github.com/Oun-Muhammad" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a> <a href="mailto:oun.muhammad2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a> </p>
 
 ---
 
